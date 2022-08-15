@@ -8,7 +8,8 @@ This repository contains:
     (3) Other Data Mining practices, on supervised (k nearest,NavieBayes), unsupervised (k means, Apriori). 
         Decision Tree and logistic regerssion are applied in the Data Mining Homework
     (4) Other ipynb practices.
-
-Note: jupyter notebook is mainly used, in place of visial studio code.
-      Knime workflow are downloaded as svg, to allow viewing without knime
+         
+    Remarks:
+         jupyter notebook is mainly used, in place of visial studio code.
+         Knime workflow are downloaded as svg, to allow viewing without knime
     
